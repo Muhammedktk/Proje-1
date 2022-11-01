@@ -12,5 +12,3 @@
 Ödev - Ters Üçgen Yapımı
 
 Ödev - Üs Hesabı Yapan Program
-
-Ödev - 1-100 Arasındaki Asal Sayıları Bulan Program
