@@ -1,1 +1,9 @@
 # Proje-1
+Ödev - Girilen Sayılardan Min ve Max Değerleri Bulma
+Ödev - Mükemmel Sayı Bulan Program
+Ödev - Ters Üçgen Yapımı
+Ödev - 1-100 Arasındaki Asal Sayıları Bulan Program
+Ödev - Fibonacci Serisi
+Ödev - Üs Hesabı Yapan Program
+Ödev - Desene Göre Metot Oluşturma
+Ödev - Asal Sayı Bulan Program
